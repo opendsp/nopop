@@ -1,0 +1,19 @@
+{
+  "name": "nopop",
+  "version": "1.0.0",
+  "description": "reduce pops n clicks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stagas/nopop.git"
+  },
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/nopop/issues"
+  },
+  "homepage": "https://github.com/stagas/nopop#readme"
+}
